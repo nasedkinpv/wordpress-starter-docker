@@ -1,0 +1,3 @@
+2020/12/24 20:39:08 [emerg] 1#1: host not found in upstream "wordpress" in /etc/nginx/conf.d/wordpress.conf:30
+2020/12/24 20:39:09 [emerg] 1#1: host not found in upstream "wordpress" in /etc/nginx/conf.d/wordpress.conf:30
+2020/12/24 20:39:09 [emerg] 1#1: host not found in upstream "wordpress" in /etc/nginx/conf.d/wordpress.conf:30
